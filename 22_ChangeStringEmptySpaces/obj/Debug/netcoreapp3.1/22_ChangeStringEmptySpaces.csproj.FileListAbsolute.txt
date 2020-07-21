@@ -1,0 +1,12 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\bin\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\22_ChangeStringEmptySpaces\obj\Debug\netcoreapp3.1\22_ChangeStringEmptySpaces.genruntimeconfig.cache

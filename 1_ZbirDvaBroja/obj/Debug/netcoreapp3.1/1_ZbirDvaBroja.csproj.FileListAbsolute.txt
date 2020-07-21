@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\1_ZbirDvaBroja\obj\Debug\netcoreapp3.1\1_ZbirDvaBroja.genruntimeconfig.cache

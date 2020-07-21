@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\bin\Debug\netcoreapp3.1\7_AreStringEquals.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\7_AreStringEquals\obj\Debug\netcoreapp3.1\7_AreStringEquals.genruntimeconfig.cache

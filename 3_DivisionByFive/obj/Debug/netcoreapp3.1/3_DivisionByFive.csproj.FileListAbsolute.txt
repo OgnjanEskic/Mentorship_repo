@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\bin\Debug\netcoreapp3.1\3_DivisionByFive.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\3_DivisionByFive\obj\Debug\netcoreapp3.1\3_DivisionByFive.genruntimeconfig.cache

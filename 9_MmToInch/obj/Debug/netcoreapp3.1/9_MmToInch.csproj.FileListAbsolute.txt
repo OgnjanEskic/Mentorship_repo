@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\bin\Debug\netcoreapp3.1\9_MmToInch.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\9_MmToInch\obj\Debug\netcoreapp3.1\9_MmToInch.genruntimeconfig.cache

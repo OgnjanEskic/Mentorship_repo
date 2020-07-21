@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\bin\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\12_StarsDrawingToTriangle\obj\Debug\netcoreapp3.1\12_StarsDrawingToTriangle.genruntimeconfig.cache

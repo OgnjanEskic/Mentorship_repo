@@ -1,0 +1,17 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\2_NumberGreaterThanZero.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\bin\Debug\netcoreapp3.1\1_ZbirDvaBroja.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.csproj.CopyComplete
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\2_NumberGreaterThanZero\obj\Debug\netcoreapp3.1\2_NumberGreaterThanZero.genruntimeconfig.cache

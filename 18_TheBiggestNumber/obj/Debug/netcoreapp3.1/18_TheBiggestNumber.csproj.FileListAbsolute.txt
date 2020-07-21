@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\bin\Debug\netcoreapp3.1\18_TheBiggestNumber.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\18_TheBiggestNumber\obj\Debug\netcoreapp3.1\18_TheBiggestNumber.genruntimeconfig.cache

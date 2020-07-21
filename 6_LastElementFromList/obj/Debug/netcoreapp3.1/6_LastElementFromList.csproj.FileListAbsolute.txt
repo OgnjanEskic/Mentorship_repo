@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\bin\Debug\netcoreapp3.1\6_LastElementFromList.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\6_LastElementFromList\obj\Debug\netcoreapp3.1\6_LastElementFromList.genruntimeconfig.cache

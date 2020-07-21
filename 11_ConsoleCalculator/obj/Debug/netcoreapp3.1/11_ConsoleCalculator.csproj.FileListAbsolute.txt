@@ -1,0 +1,12 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\bin\Debug\netcoreapp3.1\11_ConsoleCalculator.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\11_ConsoleCalculator\obj\Debug\netcoreapp3.1\11_ConsoleCalculator.genruntimeconfig.cache

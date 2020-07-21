@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\bin\Debug\netcoreapp3.1\23_SwapCharactersInAString.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\23_SwapCharactersInAString\obj\Debug\netcoreapp3.1\23_SwapCharactersInAString.genruntimeconfig.cache

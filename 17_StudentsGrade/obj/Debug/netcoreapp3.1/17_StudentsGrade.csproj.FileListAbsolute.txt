@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\bin\Debug\netcoreapp3.1\17_StudentsGrade.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\17_StudentsGrade\obj\Debug\netcoreapp3.1\17_StudentsGrade.genruntimeconfig.cache

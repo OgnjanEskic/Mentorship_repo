@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\bin\Debug\netcoreapp3.1\14_BackwardString.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\14_BackwardString\obj\Debug\netcoreapp3.1\14_BackwardString.genruntimeconfig.cache

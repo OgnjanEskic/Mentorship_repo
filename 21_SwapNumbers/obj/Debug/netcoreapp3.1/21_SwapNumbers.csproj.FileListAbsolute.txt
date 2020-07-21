@@ -1,0 +1,12 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\bin\Debug\netcoreapp3.1\21_SwapNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\21_SwapNumbers\obj\Debug\netcoreapp3.1\21_SwapNumbers.genruntimeconfig.cache

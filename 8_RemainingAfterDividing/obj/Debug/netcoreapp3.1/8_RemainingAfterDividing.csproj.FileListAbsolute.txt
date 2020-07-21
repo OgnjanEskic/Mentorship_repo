@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\bin\Debug\netcoreapp3.1\8_RemainingAfterDividing.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\8_RemainingAfterDividing\obj\Debug\netcoreapp3.1\8_RemainingAfterDividing.genruntimeconfig.cache

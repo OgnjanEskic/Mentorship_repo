@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\bin\Debug\netcoreapp3.1\4_StringConcatenation.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\4_StringConcatenation\obj\Debug\netcoreapp3.1\4_StringConcatenation.genruntimeconfig.cache

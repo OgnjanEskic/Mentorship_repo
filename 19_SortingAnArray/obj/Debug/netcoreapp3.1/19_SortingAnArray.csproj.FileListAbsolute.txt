@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\bin\Debug\netcoreapp3.1\19_SortingAnArray.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\19_SortingAnArray\obj\Debug\netcoreapp3.1\19_SortingAnArray.genruntimeconfig.cache

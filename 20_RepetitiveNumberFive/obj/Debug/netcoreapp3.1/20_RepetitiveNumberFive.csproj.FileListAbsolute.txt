@@ -1,0 +1,12 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\bin\Debug\netcoreapp3.1\20_RepetitiveNumberFive.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\20_RepetitiveNumberFive\obj\Debug\netcoreapp3.1\20_RepetitiveNumberFive.genruntimeconfig.cache

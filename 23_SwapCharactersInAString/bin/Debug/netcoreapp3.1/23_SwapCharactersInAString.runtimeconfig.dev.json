@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ognjan.Eskic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ognjan.Eskic\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

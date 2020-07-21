@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\bin\Debug\netcoreapp3.1\5_EvenOddNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\5_EvenOddNumbers\obj\Debug\netcoreapp3.1\5_EvenOddNumbers.genruntimeconfig.cache

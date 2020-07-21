@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\bin\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\16_SwitchingNaturalNumbers\obj\Debug\netcoreapp3.1\16_SwitchingNaturalNumbers.genruntimeconfig.cache
