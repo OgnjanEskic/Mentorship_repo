@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\bin\Debug\netcoreapp3.1\24_WordsShuffler.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\24_WordsShuffler\obj\Debug\netcoreapp3.1\24_WordsShuffler.genruntimeconfig.cache

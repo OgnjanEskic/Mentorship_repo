@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\bin\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.genruntimeconfig.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\26_RemovingRepeatingLetters\obj\Debug\netcoreapp3.1\26_RemovingRepeatingLetters.csprojAssemblyReference.cache

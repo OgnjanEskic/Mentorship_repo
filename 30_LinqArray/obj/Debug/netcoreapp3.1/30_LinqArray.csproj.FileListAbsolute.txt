@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\bin\Debug\netcoreapp3.1\30_LinqArray.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.genruntimeconfig.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\30_LinqArray\obj\Debug\netcoreapp3.1\30_LinqArray.csprojAssemblyReference.cache

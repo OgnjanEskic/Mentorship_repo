@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0sBA9VQM9W0A/yT2YX+ALq/Jd8Xo+bUeN3aj+H2ZH5xynFNpGEtyXXvoAN5L84l+qae7ThilbmhYzjWJ970pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ognjan.Eskic\\source\\repos\\MentorshipCSharpProgram\\28_MathOps\\28_MathOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ognjan.Eskic\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.Excel 15.0.4795.1000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

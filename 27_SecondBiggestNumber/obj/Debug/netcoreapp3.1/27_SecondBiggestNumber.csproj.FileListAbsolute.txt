@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\bin\Debug\netcoreapp3.1\27_SecondBiggestNumber.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\27_SecondBiggestNumber\obj\Debug\netcoreapp3.1\27_SecondBiggestNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.exe
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.deps.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.runtimeconfig.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.runtimeconfig.dev.json
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\bin\Debug\netcoreapp3.1\25_CountLetters.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.csprojAssemblyReference.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.AssemblyInfoInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.AssemblyInfo.cs
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.csproj.CoreCompileInputs.cache
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.dll
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.pdb
+C:\Users\Ognjan.Eskic\source\repos\MentorshipCSharpProgram\25_CountLetters\obj\Debug\netcoreapp3.1\25_CountLetters.genruntimeconfig.cache
